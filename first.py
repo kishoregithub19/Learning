@@ -1,7 +1,7 @@
 # Python program to find the factorial of a number provided by the user.
 
 # change the value for a different result
-num = 5
+num = 6
 
 # To take input from the user
 #num = int(input("Enter a number: "))
@@ -17,3 +17,4 @@ else:
    for i in range(1,num + 1):
        factorial = factorial*i
    print("The factorial of",num,"is",factorial)
+   print("Completed the task successfully")

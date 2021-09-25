@@ -1,0 +1,11 @@
+myString <- "Hello, World!"
+print ( myString)
+v <- c( 2,5.5,6)
+t <- c(8, 3, 4)
+print(v+t)
+v <- c( 2,5.5,6)
+t <- c(8, 3, 4)
+print(v%%t)
+v <- c(2,5.5,6,9)
+t <- c(8,2.5,14,9)
+print(v < t)
